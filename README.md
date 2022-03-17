@@ -122,6 +122,6 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Firgisotya)
+Credits: [Firgi Sotya Izzuddin](https://github.com/Firgisotya)
 
 Last Edited on: 18/03/2022
