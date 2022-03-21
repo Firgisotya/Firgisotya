@@ -109,8 +109,7 @@
 <br>
   <br>
   
-[![Firgisotya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Firgisotya&theme=tokyonight)](https://git.io/praveenscience)
-[![Firgisotya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Firgisotya&bg_color=92a7f5&color=2a54f8&line=2a54f8&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Firgisotya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Firgisotya&theme=nord)](https://git.io/praveenscience) 
 
 | ![Firgisotya's github stats](https://github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&theme=tokyonight) | ![Firgisotya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Firgisotya&theme=tokyonight) |
 | --- | --- |
