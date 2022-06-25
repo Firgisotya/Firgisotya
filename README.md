@@ -115,7 +115,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firgisotya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 <br>
@@ -124,4 +124,3 @@
 -----
 Credits: [Firgi Sotya Izzuddin](https://github.com/Firgisotya)
 
-Last Edited on: 18/03/2022
