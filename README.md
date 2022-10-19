@@ -13,7 +13,7 @@
 
 
 
-- 🏫: I'm a student at Malang State Polytechnic.
+- 🏫: I'm a student at Malang State of Polytechnic.
   
 - 🌱 I’m currently learning Laravel and Flutter
   
