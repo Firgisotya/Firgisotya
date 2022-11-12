@@ -111,9 +111,11 @@
   
 [![Firgisotya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Firgisotya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-| ![![Firgisotya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![GitHub Streak](https://streak-stats.demolab.com?user=Firgisotya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=Firgisotya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<!-- | ![![Firgisotya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![GitHub Streak](https://streak-stats.demolab.com?user=Firgisotya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firgisotya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firgisotya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)  -->
 
 
 
