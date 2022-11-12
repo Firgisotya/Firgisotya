@@ -51,7 +51,13 @@
 <br>
 <br>
   <br>
-  
+<h2> Activity </h2>
+<p align="center">
+  <a href="https://github.com/Firgisotya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firgisotya&theme=tokyonight&hide_border=true" alt="Firgisotya's GitHub streak"/>
+  </a>
+</p>
+
 [![Firgisotya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Firgisotya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Firgisotya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
