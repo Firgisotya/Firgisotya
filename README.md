@@ -64,7 +64,7 @@
   <br/>
 </a>
 
-[![Firgisotya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Firgisotya&theme=tokyo-night)](https://github.com/Firgisotya/github-readme-activity-graph)
+[![Firgisotya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firgisotya&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Firgisotya/github-readme-activity-graph)
 
 
 
