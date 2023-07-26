@@ -15,7 +15,7 @@
 
 - 🏫: I'm a student at Malang State of Polytechnic.
   
-- 🌱 I’m currently learning Angular js and Vue js
+- 🌱 I’m currently learning Angular and Vue js
   
 - 🤔: I’m looking for help with anything I am currently learning! 😅
   
