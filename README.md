@@ -11,17 +11,7 @@
 
 <h2> About Me </h2>
 
-
-
-- 🏫: I'm a student at Malang State of Polytechnic.
-  
-- 🌱 I’m currently learning Go Language
-  
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-  
-- 💬 Ask me about Php, Java, Laravel, JavaScript
-  
-- ⚡ Fun fact: I play game.
+<div size='20px'> I am a Full Stack Web Developer with approximately 3 years experience with expertise in responsive design and SEO optimization. I have knowledge in the programming language Javascript, PHP, Java and the use of frameworks such as Node.js, React.js, Laravel. I also have skills in client needs analysis and good teamwork. </div>
 
 ## 🛠️ My Skills
 
