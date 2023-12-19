@@ -36,28 +36,6 @@
 <a href = 'https://www.instagram.com/firgisi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>  
   
 <br>
-<br>
-  <br>
-<h2> Activity </h2>
-<p align="center">
-  <a href="https://github.com/Firgisotya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firgisotya&theme=tokyonight&hide_border=true" alt="Firgisotya's GitHub streak"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/Firgisotya"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Firgisotya"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Firgisotya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-[![Firgisotya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firgisotya&theme=tokyo-night)](https://github.com/Firgisotya/github-readme-activity-graph)
-
-
-
-
-
-<br>
 
 
 -----
